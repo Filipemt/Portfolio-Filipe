@@ -20,7 +20,7 @@ const ButtonPrimary = ({
         <a 
           href={href}
           target={target}
-          className={"btn btn-outline" + classes}
+          className={"btn btn-primary" + classes}
           >
           {label}
 
@@ -34,7 +34,7 @@ const ButtonPrimary = ({
       )
     } else {
       return (
-        <button className={"btn btn-outline " + classes}>
+        <button className={"btn btn-primary " + classes}>
           {label}
 
           {icon ? 
@@ -70,7 +70,7 @@ const ButtonOutline = ({
         <a 
           href={href}
           target={target}
-          className={"btn btn-primary" + classes}
+          className={"btn btn-outline" + classes}
           >
           {label}
 
@@ -84,7 +84,7 @@ const ButtonOutline = ({
       )
     } else {
       return (
-        <button className={"btn btn-primary " + classes}>
+        <button className={"btn btn-outline " + classes}>
           {label}
 
           {icon ? 
