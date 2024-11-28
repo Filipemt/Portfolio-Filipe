@@ -23,7 +23,7 @@ const About = () => {
 
         <div className="container">
 
-          <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12">
+          <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
             <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
             Welcome! I&apos;m Filipe, a dedicated back-end development student specializing in Java. With a passion for creating efficient and scalable systems, I focus on building robust server-side solutions that power seamless and reliable user experiences. Let's turn complex ideas into functional, high-performance applications!
             </p>

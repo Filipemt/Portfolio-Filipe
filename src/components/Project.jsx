@@ -51,7 +51,7 @@ const Project = () => {
       className=""
       >
       <div className="container">
-        <h2 className="headline-2 mb-8">
+        <h2 className="headline-2 mb-8 reveal-up">
           My portfolio highlights
         </h2>
 
@@ -63,6 +63,7 @@ const Project = () => {
             title={title}
             tags={tags}
             projectLink={projectLink}
+            classes="reveal-up"
             />
           ))}
         </div>
