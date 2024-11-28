@@ -32,19 +32,29 @@ const skillItem = [
     desc: 'Node Framework'
   },
   {
-    imgSrc: 'src/images/mongodb.svg',
-    label: 'MongoDB',
-    desc: 'Database'
-  },
-  {
     imgSrc: 'src/images/react.svg',
     label: 'React',
     desc: 'Framework'
   },
   {
-    imgSrc: 'src/images/tailwindcss.svg',
-    label: 'TailwindCSS',
-    desc: 'User Interface'
+    imgSrc: 'src/images/mongodb.svg',
+    label: 'MongoDB',
+    desc: 'Database'
+  },
+  {
+    imgSrc: 'src/images/mysql.svg',
+    label: 'MySQL',
+    desc: 'Database'
+  },
+  {
+    imgSrc: 'src/images/java.svg',
+    label: 'Java',
+    desc: 'Programming Language'
+  },
+  {
+    imgSrc: 'src/images/spring.svg',
+    label: 'Spring',
+    desc: 'Framework'
   },
 ];
 
