@@ -8,6 +8,7 @@ import Hero from "./components/Hero"
 import About from "./components/About"
 import Skill from "./components/Skill"
 import Project from "./components/Project"
+import Contact from "./components/Contact"
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
     <About/>
     <Skill/>
     <Project/>
+    <Contact/>
     </main>
     </>
   )
