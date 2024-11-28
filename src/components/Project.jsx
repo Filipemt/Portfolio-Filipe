@@ -7,41 +7,23 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
-    imgSrc: '/',
-    title: 'Full stack music app',
-    tags: ['API', 'MVC', 'Development'],
-    projectLink: ''
+    imgSrc: '/src/images/chessSystem.png',
+    title: 'Chess System',
+    tags: ['Back-end', 'Java', 'Lógica de Programação'],
+    projectLink: 'https://github.com/Filipemt/chess-system-java'
   },
   {
-    imgSrc: '/',
-    title: 'Free stock photo app',
-    tags: ['API', 'SPA'],
-    projectLink: ''
+    imgSrc: '/src/images/alga-transito.jpeg',
+    title: 'Alga-Trânsito',
+    tags: ['Back-End', 'Java', 'Spring'],
+    projectLink: 'https://github.com/Filipemt/alga-transito'
   },
   {
-    imgSrc: '/',
-    title: 'Recipe app',
-    tags: ['Development', 'API'],
-    projectLink: ''
-  },
-  {
-    imgSrc: '/',
-    title: 'Real state website',
-    tags: ['Web-design', 'Development'],
-    projectLink: ''
-  },
-  {
-    imgSrc: '/',
-    title: 'eCommerce website',
-    tags: ['eCommerce', 'Development'],
-    projectLink: ''
-  },
-  {
-    imgSrc: '/',
-    title: 'vCard Personal portfolio',
-    tags: ['Web-design', 'Development'],
-    projectLink: ''
-  },
+    imgSrc: '/src/images/food explorer.png',
+    title: 'Food Explorer',
+    tags: ['Full-Stack', 'API', 'React', 'Node'],
+    projectLink: 'https://github.com/Filipemt/food-explorer'
+  }
 ];
 
 const Project = () => {
