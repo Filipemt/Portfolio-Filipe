@@ -7,19 +7,19 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
-    imgSrc: '/src/images/chessSystem.png',
+    imgSrc: 'src/images/chessSystem.png',
     title: 'Chess System',
     tags: ['Back-end', 'Java', 'Sisstema de Xadrez'],
     projectLink: 'https://github.com/Filipemt/chess-system-java'
   },
   {
-    imgSrc: '/src/images/logica.png',
+    imgSrc: 'src/images/logica.png',
     title: 'Exercício de lógica',
     tags: ['Back-End', 'Java', 'Lógica de Programação'],
     projectLink: 'https://github.com/Filipemt/logic-programming-java'
   },
   {
-    imgSrc: '/src/images/food explorer.png',
+    imgSrc: 'src/images/food explorer.png',
     title: 'Food Explorer',
     tags: ['Full-Stack', 'API', 'React', 'Node'],
     projectLink: 'https://github.com/Filipemt/food-explorer'
