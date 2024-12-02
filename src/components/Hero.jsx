@@ -3,7 +3,7 @@
  * @license Apache-2.0
  */
 
-import { ButtonPrimary, ButtonOutline } from "./button";
+import { ButtonPrimary, ButtonOutline } from "./Button";
 
 const Hero = () => {
   return(

@@ -38,7 +38,7 @@ const Contact = () => (
       <div className="mb-12 lg:mb-0 lb:flex lg:flex-col">
         
         <h2 className="headline-2 lb:max-w-[12ch] reveal-up">
-          Contact me for collaboration
+          Entre em contato comigo
         </h2>
 
         <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] lb:max-w-[30ch] reveal-up">
