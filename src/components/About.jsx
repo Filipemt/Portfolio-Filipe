@@ -43,7 +43,7 @@ const About = () => {
               }
 
               <img 
-              src="src/images/logo2.jpg" 
+              src="/images/logo2.jpg" 
               alt="Logo"
               width={30}
               height={30} 

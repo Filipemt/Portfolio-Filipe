@@ -7,52 +7,52 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: 'src/images/figma.svg',
+    imgSrc: '/images/figma.svg',
     label: 'Figma',
     desc: 'Design tool'
   },
   {
-    imgSrc: 'src/images/css3.svg',
+    imgSrc: '/images/css3.svg',
     label: 'CSS',
     desc: 'User Interface'
   },
   {
-    imgSrc: 'src/images/javascript.svg',
+    imgSrc: '/images/javascript.svg',
     label: 'JavaScript',
     desc: 'Interaction'
   },
   {
-    imgSrc: 'src/images/nodejs.svg',
+    imgSrc: '/images/nodejs.svg',
     label: 'NodeJS',
     desc: 'Web Server'
   },
   {
-    imgSrc: 'src/images/expressjs.svg',
+    imgSrc: '/images/expressjs.svg',
     label: 'ExpressJS',
     desc: 'Node Framework'
   },
   {
-    imgSrc: 'src/images/react.svg',
+    imgSrc: '/images/react.svg',
     label: 'React',
     desc: 'Framework'
   },
   {
-    imgSrc: 'src/images/mongodb.svg',
+    imgSrc: '/images/mongodb.svg',
     label: 'MongoDB',
     desc: 'Database'
   },
   {
-    imgSrc: 'src/images/mysql.svg',
+    imgSrc: '/images/mysql.svg',
     label: 'MySQL',
     desc: 'Database'
   },
   {
-    imgSrc: 'src/images/java.svg',
+    imgSrc: '/images/java.svg',
     label: 'Java',
     desc: 'Programming Language'
   },
   {
-    imgSrc: 'src/images/spring.svg',
+    imgSrc: '/images/spring.svg',
     label: 'Spring',
     desc: 'Framework'
   },
