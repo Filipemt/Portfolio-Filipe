@@ -64,11 +64,11 @@ const Skill = () => {
       <div className="container">
 
       <h2 className="headline-2 reveal-up">
-        Essential Tools I use
+        Ferramentas utilizadas
       </h2>
 
       <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch]">
-        Discover the powerful tools and technologies I use to create exceptional, high-performing websites & applications.
+      Descubra as ferramentas e tecnologias poderosas que utilizo para criar sites e aplicativos excepcionais e de alto desempenho.
       </p>
 
       <div className="grid gap-3 grid-cols-[repeat(auto-fill,_minmax(250px,_1fr))]">

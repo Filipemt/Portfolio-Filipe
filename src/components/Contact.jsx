@@ -42,7 +42,7 @@ const Contact = () => (
         </h2>
 
         <p className="text-zinc-400 mt-3 mb-8 max-w-[50ch] lb:max-w-[30ch] reveal-up">
-          Reach out today to discuss your project needs an start collaborating on something amazing!
+        Entre em contato hoje mesmo para discutir as necessidades do seu projeto.
         </p>
 
         <div className="flex items-center gap-2 mt-auto">
@@ -119,7 +119,7 @@ const Contact = () => (
           <textarea 
             name="message" 
             id="message"
-            placeholder="Hi!"
+            placeholder="Sua mensagem!"
             required 
             className="text-field resize-y min-h-32 max-h-80 reveal-up"
           >

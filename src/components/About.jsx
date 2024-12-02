@@ -5,11 +5,11 @@
 
 const aboutItems = [
   {
-    label: 'Project done',
+    label: 'Projetos feitos',
     number: 15
   },
   {
-    label: 'Years of study',
+    label: 'Anos de estudos',
     number: 2
   }
 ];
@@ -25,7 +25,7 @@ const About = () => {
 
           <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
             <p className="text-zinc-300 mb-4 md:mb-8 md:text-xl md:max-w-[60ch]">
-            Welcome! I&apos;m Filipe, a dedicated back-end development student specializing in Java. With a passion for creating efficient and scalable systems, I focus on building robust server-side solutions that power seamless and reliable user experiences. Let's turn complex ideas into functional, high-performance applications!
+            Bem-vindo! Sou Filipe, um estudante dedicado de desenvolvimento back-end especializado em Java. Com paixão pela criação de sistemas eficientes e escaláveis, meu foco é a construção de soluções robustas no lado do servidor que proporcionem experiências de usuário contínuas e confiáveis. Vamos transformar ideias complexas em aplicações funcionais e de alto desempenho!
             </p>
 
             <div className="flex flex-wrap items-center gap-4 md:gap-7">

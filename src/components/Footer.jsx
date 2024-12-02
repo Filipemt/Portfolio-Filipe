@@ -11,19 +11,15 @@ const sitemap = [
     href: '#home'
   },
   {
-    label: 'About',
+    label: 'Sobre',
     href: '#about'
   },
   {
-    label: 'Project',
+    label: 'Projeto',
     href: '#project'
   },
   {
-    label: 'Reviews',
-    href: '#reviews'
-  },
-  {
-    label: 'Contact me',
+    label: 'Contato',
     href: '#contact'
   }
 ];
@@ -50,7 +46,7 @@ const Footer = () => {
     <div className="lg:grid lg:grid-cols-2">
       <div className="mb-10">
         <h2 className="headline-1 mb-8 lg:max-w-[12ch] reveal-up">
-          Let&apos;s work together today!
+          Vamos trabalhar juntos!
         </h2>
         <ButtonPrimary
           label="Start Project"
