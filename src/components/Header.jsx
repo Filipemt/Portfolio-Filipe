@@ -6,6 +6,7 @@
 import { useState } from "react";
 import NavBar from "./Navbar";
 
+import Logo from "/images/logo2.jpg"
 const Header = () => {
   const [navOpen, setNavOpen] = useState(false);
 
@@ -21,7 +22,7 @@ const Header = () => {
               className="logo">
 
                 <img
-                src="/images/logo2.jpg" 
+                src={Logo} 
                 width={40}
                 height={40}
                 alt="Filipe Mota" 
